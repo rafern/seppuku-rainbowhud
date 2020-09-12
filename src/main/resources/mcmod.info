@@ -1,0 +1,16 @@
+[
+{
+  "modid": "seppuku-rainbowhud",
+  "name": "Seppuku Rainbow Hud",
+  "description": "Seppuku module to add a rainbow hud effect.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["anon"],
+  "credits": "Rigamortis",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
